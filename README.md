@@ -1,5 +1,3 @@
-## Download the zip file and extract to any location of your choice
-
 ## Prerequisites  
   
  - Python3 ([Download](https://www.python.org/downloads/))  
